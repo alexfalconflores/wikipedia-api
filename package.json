@@ -1,27 +1,28 @@
 {
-  "name": "wikipedia",
-  "version": "0.0.1",
-  "description": "wikipedia api",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/alexfalconflores/wikipedia"
-  },
-  "keywords": [
-    "wikipedia",
-    "api",
-    "typescript",
-    "javascript"
-  ],
-  "author": "Alex Stefano Falcon Flores <alexfalconflores@hotmail.com> (https://github.com/alexfalconflores)",
-  "license": "ISC",
-  "dependencies": {
-    "typescript": "^4.9.4"
-  },
-  "devDependencies": {
-    "ts-node": "^10.9.1"
-  }
+	"name": "wikipedia",
+	"version": "0.0.1",
+	"description": "wikipedia api",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/alexfalconflores/wikipedia"
+	},
+	"keywords": [
+		"wikipedia",
+		"api",
+		"typescript",
+		"javascript"
+	],
+	"author": "Alex Stefano Falcon Flores <alexfalconflores@hotmail.com> (https://github.com/alexfalconflores)",
+	"license": "ISC",
+	"dependencies": {
+		"typescript": "^4.9.4"
+	},
+	"devDependencies": {
+		"prettier": "^2.8.3",
+		"ts-node": "^10.9.1"
+	}
 }
