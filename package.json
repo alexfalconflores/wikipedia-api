@@ -28,7 +28,11 @@
 		"javascript"
 	],
 	"author": "Alex Stefano Falcon Flores <alexfalconflores@hotmail.com> (https://github.com/alexfalconflores)",
-	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/alexfalconflores/wikipedia-api/issues"
+	},
+	"homepage": "https://github.com/alexfalconflores/wikipedia-api#readme",
+	"license": "MIT",
 	"dependencies": {
 		"typescript": "^4.9.4"
 	},
