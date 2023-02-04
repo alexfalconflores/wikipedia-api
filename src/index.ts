@@ -7,8 +7,8 @@ import {
 	IPopup,
 	IPopupItem,
 	ISearch,
+	onThisDayType
 } from 'wikipedia.interface';
-import { onThisDayType } from 'wikipedia.type';
 
 const OLD_WIKIPEDIA_URL = 'https://en.wikipedia.org/w/api.php';
 const NEW_WIKIPEDIA_URL = 'https://en.wikipedia.org/api/rest_v1/';
@@ -158,3 +158,5 @@ async function popup(query: string) {
 }
 
 export { search, pageOld, page, autocomplete, onThisDay, popup };
+module.exports = { search, pageOld, page, autocomplete, onThisDay, popup };
+export * from './wikipedia.interface';

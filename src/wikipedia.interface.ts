@@ -125,3 +125,11 @@ export interface IPopupItem{
 	thumbnail?: IImage;
 }
 
+export type onThisDayType =
+| 'all'
+| 'selected'
+| 'births'
+| 'deaths'
+| 'events'
+| 'holidays';
+
