@@ -158,5 +158,5 @@ async function popup(query: string) {
 }
 
 export { search, pageOld, page, autocomplete, onThisDay, popup };
-module.exports = { search, pageOld, page, autocomplete, onThisDay, popup };
+// module.exports = { search, pageOld, page, autocomplete, onThisDay, popup };
 export * from './wikipedia.interface';
