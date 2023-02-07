@@ -1,8 +1,8 @@
-<p style="text-align: center;">
+<p align="center" >
 	<img src="docs/assets/wikipedia.svg" alt="wikipedia logo"/>
 </p>
 
-<p style="text-align: center;">
+<p align="center" >
 <a href="https://github.com/alexfalconflores/wikipedia-api" title="repository"><img src="docs/assets/github-banner.svg" height="60" alt="Github: repository"></a>
 <a href="https://twitter.com/falcon_stefano" title="Follow me"><img src="docs/assets/twitter-banner.svg" height="60" alt="Twitter: @falcon_stefano"></a>
 </p>
@@ -124,12 +124,12 @@ console.log('popupResult =>', popupResult);
 ---
 
 ## Autor
-<p style="text-align: center;">
+<p align="center">
 	<img src="https://avatars.githubusercontent.com/u/75406302?v=4" height="200" style="border-radius: 50%;" alt="autor: alex falcon flores"/>
 	<br>
 	<a href="https://github.com/alexfalconflores" style="color: #868e96;">Alex Stefano Falcon Flores</a>
 </p>
-<p style="text-align: center;">
-<a href="https://github.com/alexfalconflores" title="repository"><img src="docs/assets/github.svg" width="42" height="42" alt="Github: alexfalconflores"></a>
+<p align="center" >
+<a href="https://github.com/alexfalconflores" title="my profile"><img src="docs/assets/github.svg" width="42" height="42" alt="Github: alexfalconflores"></a>
 <a href="https://twitter.com/falcon_stefano" title="Follow me"><img src="docs/assets/twitter.svg" width="42" height="42" alt="Twitter: @falcon_stefano"></a>
 </p>
