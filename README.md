@@ -125,14 +125,6 @@ console.log('popupResult =>', popupResult);
 
 ## Autor
 <p align="center">
-	<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
-		<defs>
-			<pattern id="profile" x="0" y="0" width="100%" height="100%">
-				<image x="0" y="0" width="200" height="200" xlink:href="docs/assets/profile.jpeg" alt="autor: alex falcon flores"/>
-			</pattern>
-		</defs>
-		<circle cx="100" cy="100" r="100" fill="url(#profile)"/>
-	</svg>
 	<img src="https://avatars.githubusercontent.com/u/75406302?v=4" height="200" alt="autor: Alex Falcon Flores"/>
 	<br>
 	<a href="https://github.com/alexfalconflores">Alex Stefano Falcon Flores</a>
