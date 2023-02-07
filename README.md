@@ -125,9 +125,20 @@ console.log('popupResult =>', popupResult);
 
 ## Autor
 <p align="center">
-	<img src="https://avatars.githubusercontent.com/u/75406302?v=4" height="200" style="border-radius: 50%;" alt="autor: alex falcon flores"/>
+	<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+		<defs>
+			<pattern id="profile" x="0" y="0" width="100%" height="100%">
+				<image x="0" y="0" width="100%" height="100%" xlink:href="https://avatars.githubusercontent.com/u/75406302?v=4" alt="autor: alex falcon flores"/>
+			</pattern>
+		</defs>
+		<circle cx="100" cy="100" r="100" fill="url(#profile)"/>
+	</svg>
 	<br>
-	<a href="https://github.com/alexfalconflores" style="color: #868e96;">Alex Stefano Falcon Flores</a>
+	<svg viewBox="0 0 100 2">
+  		<a xlink:href="https://github.com/alexfalconflores">
+    		<text x="0" y="0" dx="50" dy="2" text-anchor="middle" fill="#868e96" font-size="2" word-spacing="0">Alex Stefano Falcon Flores</text>
+  		</a>
+	</svg>
 </p>
 <p align="center" >
 <a href="https://github.com/alexfalconflores" title="my profile"><img src="docs/assets/github.svg" width="42" height="42" alt="Github: alexfalconflores"></a>
